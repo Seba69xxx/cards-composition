@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cards-composition/static/css/main.3982bb5f.css",
+    "main.js": "/cards-composition/static/js/main.f91a463e.js",
+    "index.html": "/cards-composition/index.html",
+    "main.3982bb5f.css.map": "/cards-composition/static/css/main.3982bb5f.css.map",
+    "main.f91a463e.js.map": "/cards-composition/static/js/main.f91a463e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.f91a463e.js"
+  ]
+}
